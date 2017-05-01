@@ -1,5 +1,5 @@
 # gnome-night-light-adjuster
-Change colour temperature of GNOME Night Light feature (introduced in 3.24).
+Change color temperature of GNOME Night Light feature (introduced in 3.24).
 To increase temperature use +, d or right arrow.
 To decrease use -, a or left arrow.
 Save with s, reset to default value using r, reset to last value with l.
