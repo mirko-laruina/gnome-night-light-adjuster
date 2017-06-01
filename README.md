@@ -17,3 +17,6 @@ You can manually compile the source code (C++) or download the executable:
     chmod +x gnome-night-light-adjuster
     #Move in /usr/bin in order to use it globally (superuser might be needed)
     mv gnome-night-light-adjuster /usr/bin/
+
+# Dependecy
+ncurses is required for gnome-night-light-adjuster to work.
